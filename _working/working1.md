@@ -4,9 +4,9 @@ collection: working
 permalink: /working/working1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 version: "2021-06-11"
-venue: ""
+venue: 
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: ""
+citation: 
 ---
 This paper is about the number 1. The number 2 is left for future work.
 
