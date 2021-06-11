@@ -3,7 +3,7 @@ title: "Paper Title Number 1"
 collection: working
 permalink: /working/working1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: ""
+version: "2021-06-11"
 venue: ""
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: ""
