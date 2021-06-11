@@ -61,7 +61,8 @@ twitter:
 facebook:
   username               :
   app_id                 :
-  publisher              :
+  
+  sher              :
 og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
@@ -179,6 +180,9 @@ collections:
     output: true
     permalink: /:collection/:path/
   publications:
+    output: true
+    permalink: /:collection/:path/
+  working:
     output: true
     permalink: /:collection/:path/
   portfolio:
