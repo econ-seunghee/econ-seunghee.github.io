@@ -16,6 +16,6 @@ Research Interests: Applied Econometrics, Economic Mobility and Inequality, Mach
 
 Job Market Paper: TEST
 
-Link to [CV](econ-seunghee.github.io/CV_test.pdf)
+Link to [CV](https://econ-seunghee.github.io/CV_test.pdf)
 
 Email: lee2057@iu.edu
