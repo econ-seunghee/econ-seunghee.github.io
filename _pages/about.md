@@ -8,13 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Testlink:[academicpages template](https://github.com/academicpages/academicpages.github.io) 
-
 Hi, I am a graduate student in the Department of Economics at Indiana University, Bloomington. I expect to graduate in May 2022 and will be available for interviews at the 2022 ASSA meeting.
 
 Research Interests: Applied Econometrics, Economic Mobility and Inequality, Machine Learning
 
-Job Market Paper: TEST
+Job Market Paper: "An Empirical Investigation of IntergenerationalMobility in Korea"
 
 Link to [CV](https://econ-seunghee.github.io/CV_test.pdf)
 
