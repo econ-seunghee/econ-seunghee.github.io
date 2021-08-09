@@ -12,7 +12,7 @@ Testlink:[academicpages template](https://github.com/academicpages/academicpages
 
 Hi, I am a graduate student in the Department of Economics at Indiana University, Bloomington. I expect to graduate in May 2022 and will be available for interviews at the 2022 ASSA meeting.
 
-Research Interests: Applied Econometrics, Labor Economics, Machine Learning
+Research Interests: Applied Econometrics, Economic Mobility and Inequality, Machine Learning
 
 Job Market Paper: TEST
 
