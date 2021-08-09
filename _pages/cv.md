@@ -6,6 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+<embed src="https://econ-seunghee.github.io/CV_test.pdf" type="application/pdf">
 
 {% include base_path %}
 
