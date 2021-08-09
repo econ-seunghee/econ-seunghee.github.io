@@ -17,15 +17,7 @@ Working Papers
 This version : 
 * "A Trajectories-Based Approach toMeasuring IntergenerationalMobility" (with Yoosoon Chang, Steven N. Durlauf and Joon Y. Park)
 
-{% for post in site.working reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
 
 Publication
 ======
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
 
