@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="https://econ-seunghee.github.io/CV_test.png" type="application/png">
+<img src="https://econ-seunghee.github.io/CV_test.png">
 
 
 Education
