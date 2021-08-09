@@ -6,10 +6,11 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<embed src="https://econ-seunghee.github.io/CV_test.pdf" type="application/pdf">
+
 
 {% include base_path %}
 
+<embed src="https://econ-seunghee.github.io/CV_test.pdf" type="application/pdf">
 Education
 ======
 * Ph.D. in Economics, Indiana University, 2022 (expected)
