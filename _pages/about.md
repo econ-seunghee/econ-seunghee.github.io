@@ -16,4 +16,4 @@ Job Market Paper: "An Empirical Investigation of IntergenerationalMobility in Ko
 
 Link to [CV](https://econ-seunghee.github.io/CV_test.pdf)
 
-Email: lee2057@iu.edu
+Email: [lee2057@iu.edu](mailto:lee2057@iu.edu)
