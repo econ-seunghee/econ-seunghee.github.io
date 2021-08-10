@@ -15,9 +15,10 @@ Working Papers
 ======
 * "An Empirical Investigation of Intergenerational Mobility in Korea" \
 This version : 
-* "A Trajectories-Based Approach toMeasuring IntergenerationalMobility" (with Yoosoon Chang, Steven N. Durlauf and Joon Y. Park)
+* "A Trajectories-Based Approach to Measuring Intergenerational Mobility" (with Yoosoon Chang, Steven N. Durlauf and Joon Y. Park)
 
 
-Publication
+Works in Progress
 ======
+* "A Trajectories-Based Approach to Growth Regression" (with Yoosoon Chang, Steven N. Durlauf and Joon Y. Park)
 
