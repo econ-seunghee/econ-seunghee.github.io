@@ -13,7 +13,7 @@ I expect to graduate in May 2022 and will be available for interviews at the 202
 
 Research Interests: Applied Econometrics, Economic Mobility and Inequality, Machine Learning
 
-Job Market Paper: "An Empirical Investigation of IntergenerationalMobility in Korea"
+Job Market Paper: "An Empirical Investigation of Intergenerational Mobility in Korea"
 
 Link to [CV](https://econ-seunghee.github.io/CV_test.pdf)
 
