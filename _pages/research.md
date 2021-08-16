@@ -19,7 +19,7 @@ Working Papers
   > This version : 
 
 
-Works in Progress
+Work in Progress
 -----
 * "A Trajectories-Based Approach to Growth Regression" (with Yoosoon Chang, Steven N. Durlauf and Joon Y. Park)
 
