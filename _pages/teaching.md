@@ -14,7 +14,7 @@ author_profile: true
 
 Associate Instructor 
 ----- 
-* Statistical Analysis for Business and Economics  [Syllabus]() 
+* Statistical Analysis for Business and Economics  [Syllabus](https://econ-seunghee.github.io/FA21_E370_Syllabus.pdf)
   > Fall 2017, Spring 2018, Fall 2018,
 Spring 2019, Spring 2020, Fall 2020,
 Spring 2021, Summer 2021, Fall 2021 
