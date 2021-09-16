@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am a graduate student in the Department of Economics at Indiana University, Bloomington.  
+I am a graduate student in the Department of Economics at Indiana University, Bloomington.  
 I will be on the 2021-2022 job market.
 
 Research Interests: Applied Econometrics, Economic Mobility and Inequality, Machine Learning
