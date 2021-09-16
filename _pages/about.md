@@ -11,7 +11,7 @@ redirect_from:
 I am a graduate student in the Department of Economics at Indiana University, Bloomington.  
 I will be on the 2021-2022 job market.
 
-Research Interests: Applied Econometrics, Economic Mobility and Inequality, Machine Learning
+Research Interests: Applied Econometrics, Economic Mobility and Inequality
 
 Job Market Paper: "An Empirical Investigation of Intergenerational Mobility in Korea"
 
