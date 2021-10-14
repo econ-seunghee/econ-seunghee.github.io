@@ -12,5 +12,7 @@ redirect_from:
 
 * CV in [pdf](https://econ-seunghee.github.io/CV_SeungheeLee.pdf)
 
-<img src="https://econ-seunghee.github.io/CV_test.png">
+<img src="https://econ-seunghee.github.io/CV_SeungheeLee-1.png">
+<img src="https://econ-seunghee.github.io/CV_SeungheeLee-2.png">
+<img src="https://econ-seunghee.github.io/CV_SeungheeLee-3.png">
 
