@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a Ph.D. candidate in the Department of Economics at Indiana University, Bloomington.  
+Welcome! 
+I am a Ph.D. candidate in the Department of Economics at Indiana University, Bloomington.  
 I expect to graduate in May 2022 and will be on the 2021-2022 job market.
 
 Research Interests: Applied Econometrics, Economic Mobility and Inequality
