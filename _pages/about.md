@@ -15,6 +15,6 @@ Research Interests: Applied Econometrics, Economic Mobility and Inequality
 
 Job Market Paper: "An Empirical Investigation of Intergenerational Mobility in Korea"
 
-Link to [CV](https://econ-seunghee.github.io/CV_test.pdf)
+Link to [CV](https://econ-seunghee.github.io/CV_SeungheeLee.pdf)
 
 Email: [lee2057@iu.edu](mailto:lee2057@iu.edu)
