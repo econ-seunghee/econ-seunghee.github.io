@@ -13,7 +13,7 @@ Welcome!
 I am a Ph.D. candidate in the Department of Economics at Indiana University, Bloomington.  
 I expect to graduate in May 2022 and will be on the 2021-2022 job market.
 
-Research Interests: Applied Econometrics, Economics of Mobility and Inequality
+Research Interests: Econometrics, Applied Econometrics, Economics of Mobility and Inequality
 
 Job Market Paper: "An Empirical Investigation of Intergenerational Mobility in Korea"
 
