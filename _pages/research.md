@@ -14,7 +14,7 @@ author_profile: true
 Working Papers
 -----
 * "An Empirical Investigation of Intergenerational Mobility in Korea" 
-  > Job Market Paper, This version : 
+  > Job Market Paper, This version : November 2021
 * "A Trajectories-Based Approach to Measuring Intergenerational Mobility" (with Yoosoon Chang, Steven N. Durlauf and Joon Y. Park)
   > This version : 
 
