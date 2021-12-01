@@ -15,7 +15,7 @@ I expect to graduate in May 2022 and will be on the 2021-2022 job market.
 
 Research Interests:  Economics of Mobility and Inequality, Applied Econometrics, Econometrics
 
-Job Market Paper: "An Empirical Investigation of Intergenerational Mobility in Korea"
+Job Market Paper: ["An Empirical Investigation of Intergenerational Mobility in Korea"](https://econ-seunghee.github.io/JMP_SeungheeLee.pdf)
 
 Link to [CV](https://econ-seunghee.github.io/CV_SeungheeLee.pdf)
 
