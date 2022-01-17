@@ -24,6 +24,8 @@ Teaching Assistant (Graduate Course)
 -----
 * Econometrics 1 
   > Fall 2019
+* Econometrics 2
+  > Spring 2022
 * Macroeconometrics 
   > Fall 2018, Fall 2019, Fall 2020
 * Topics in Financial Econometrics 
