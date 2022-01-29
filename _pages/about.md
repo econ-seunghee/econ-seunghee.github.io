@@ -11,11 +11,9 @@ redirect_from:
 
 Welcome!    
 I am a Ph.D. candidate in the Department of Economics at Indiana University, Bloomington.  
-I expect to graduate in May 2022 and will be on the 2021-2022 job market.
+I expect to graduate in May 2022.
 
 Research Interests:  Economics of Mobility and Inequality, Applied Econometrics, Econometrics
-
-Job Market Paper: ["An Empirical Investigation of Intergenerational Mobility in Korea"](https://econ-seunghee.github.io/JMP_SeungheeLee.pdf)
 
 Link to [CV](https://econ-seunghee.github.io/CV_SeungheeLee.pdf)
 
