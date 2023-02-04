@@ -14,7 +14,6 @@ author_profile: true
 Working Papers
 -----
 * "A Trajectories-Based Approach to Measuring Intergenerational Mobility" 
-
 (with Yoosoon Chang, Steven N. Durlauf and Joon Y. Park)
   > This version : [February 2023](https://) 
 
