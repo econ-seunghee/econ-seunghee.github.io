@@ -8,12 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-   
-I am a Ph.D. candidate in the Department of Economics at Indiana University, Bloomington.  
-I expect to graduate in May 2022.
+Associate Fellow
+
+Department of Public Finance and Social Policy
+
+Korea Development Institute (KDI)
 
 Research Interests:  Economics of Mobility and Inequality, Applied Econometrics, Econometrics
 
 Link to [CV](https://econ-seunghee.github.io/CV_SeungheeLee.pdf)
 
-Email: [lee2057@iu.edu](mailto:lee2057@iu.edu)
+Email: [shlee@kdi.re.kr](mailto:shlee@kdi.re.kr)
