@@ -13,10 +13,7 @@ author_profile: true
 
 Working Papers
 -----
-* "An Empirical Investigation of Intergenerational Mobility in Korea" 
-  > This version : [January 2022](https://econ-seunghee.github.io/JMP_SeungheeLee.pdf) 
-
 * "A Trajectories-Based Approach to Measuring Intergenerational Mobility" (with Yoosoon Chang, Steven N. Durlauf and Joon Y. Park)
-  > This version : 
+  > This version : [February 2023](https://) 
 
 
