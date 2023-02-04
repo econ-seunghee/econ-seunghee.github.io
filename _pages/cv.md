@@ -14,5 +14,4 @@ redirect_from:
 
 <img src="https://econ-seunghee.github.io/CV_SeungheeLee-1.png">
 <img src="https://econ-seunghee.github.io/CV_SeungheeLee-2.png">
-<img src="https://econ-seunghee.github.io/CV_SeungheeLee-3.png">
 
