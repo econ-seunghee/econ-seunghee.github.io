@@ -10,7 +10,7 @@ redirect_from:
 
 Associate Fellow
 
-Department of Public Finance and Social Policy
+Department of Public Finance and Social Policies
 
 Korea Development Institute (KDI)
 
