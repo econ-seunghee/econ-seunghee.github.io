@@ -13,9 +13,9 @@ author_profile: true
 
 Working Papers
 -----
-* "A Trajectories-Based Approach to Measuring Intergenerational Mobility" 
-(with Yoosoon Chang, Steven N. Durlauf, and Joon Y. Park)
-  * Paper in [pdf](https://econ-seunghee.github.io/trajectorymobility.pdf)
+## "A Trajectories-Based Approach to Measuring Intergenerational Mobility" 
+* (with Yoosoon Chang, Steven N. Durlauf, and Joon Y. Park)
+* Paper in [pdf](https://econ-seunghee.github.io/trajectorymobility.pdf)
 
 Work In Progress
 -----
