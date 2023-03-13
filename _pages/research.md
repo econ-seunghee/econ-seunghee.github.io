@@ -15,7 +15,7 @@ Working Papers
 -----
 ### "A Trajectories-Based Approach to Measuring Intergenerational Mobility" 
 * with Yoosoon Chang, Steven N. Durlauf, and Joon Y. Park
-* NBER Working Paper 31020
+* NBER Working Paper No. 31020
 
 Work In Progress
 -----
