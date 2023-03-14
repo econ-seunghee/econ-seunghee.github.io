@@ -93,7 +93,7 @@ author:
   googlescholar    : 
   email            : "shlee@kdi.re.kr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://github.com/econ-seunghee/econ-seunghee.github.io/CV_SeungheeLee.pdf"
+  uri              : # "https://github.com/econ-seunghee/econ-seunghee.github.io/CV_SeungheeLee.pdf"
   bitbucket        :
   codepen          :
   dribbble         :
