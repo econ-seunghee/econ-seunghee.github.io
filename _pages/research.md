@@ -21,5 +21,4 @@ Work In Progress
 -----
 
 ### "An Empirical Investigation of Intergenerational Mobility in Korea" 
-* with Yoosoon Chang, Steven N. Durlauf, and Joon Y. Park
 
