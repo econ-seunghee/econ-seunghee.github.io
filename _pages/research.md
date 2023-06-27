@@ -21,7 +21,7 @@ Working Papers
 Work In Progress
 -----
 
-###  :bookmark_tabs: An Empirical Investigation of Intergenerational Mobility in Korea
+### :bookmark_tabs: An Empirical Investigation of Intergenerational Mobility in Korea
 
 
 Publications (in Korean)
