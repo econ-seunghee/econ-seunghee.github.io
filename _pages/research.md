@@ -13,7 +13,7 @@ author_profile: true
 
 Working Papers
 -----
-### A Trajectories-Based Approach to Measuring Intergenerational Mobility
+### :page_with_curl: A Trajectories-Based Approach to Measuring Intergenerational Mobility
 * with Yoosoon Chang, Steven N. Durlauf, and Joon Y. Park
 * NBER Working Paper [No. 31020](https://www.nber.org/papers/w31020)
 
@@ -21,12 +21,12 @@ Working Papers
 Work In Progress
 -----
 
-### An Empirical Investigation of Intergenerational Mobility in Korea
+###  :bookmark_tabs: An Empirical Investigation of Intergenerational Mobility in Korea
 
 
 Publications (in Korean)
 -----
 
-### Adopting Economic and Financial Variables to Explain Stock Market Volatility in Korea
+### :pencil: Adopting Economic and Financial Variables to Explain Stock Market Volatility in Korea
 * with Heejoon Han
 * The Korean Journal of Economic Studies(경제학연구), 2016.
