@@ -21,12 +21,12 @@ Working Papers
 Work In Progress
 -----
 
-### :notebook: An Empirical Investigation of Intergenerational Mobility in Korea
+### :clipboard: An Empirical Investigation of Intergenerational Mobility in Korea
 
 
 Publications (in Korean)
 -----
 
-### :clipboard: Adopting Economic and Financial Variables to Explain Stock Market Volatility in Korea
+### :notebook: Adopting Economic and Financial Variables to Explain Stock Market Volatility in Korea
 * with Heejoon Han
 * The Korean Journal of Economic Studies(경제학연구), 2016.
