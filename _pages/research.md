@@ -21,7 +21,7 @@ Working Papers
 Work In Progress
 -----
 
-### :chart_with_upwards_trend: An Empirical Investigation of Intergenerational Mobility in Korea
+### :notebook: An Empirical Investigation of Intergenerational Mobility in Korea
 
 
 Publications (in Korean)
