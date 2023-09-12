@@ -27,6 +27,7 @@ Work In Progress
 Publications (in Korean)
 -----
 
-### :notebook: Adopting Economic and Financial Variables to Explain Stock Market Volatility in Korea
+### :notebook: Adopting Economic and Financial Variables to Explain Stock Market Volatility in Korea 
+(경제/금융 변수를 이용한 한국 주식 시장의 변동성 분석 및 예측)
 * with Heejoon Han
 * The Korean Journal of Economic Studies(경제학연구), 2016.
