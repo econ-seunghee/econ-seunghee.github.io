@@ -11,6 +11,5 @@ redirect_from:
 {% include base_path %}
 
 * CV in [pdf](https://econ-seunghee.github.io/CV_SeungheeLee.pdf)
-
-<img src="https://econ-seunghee.github.io/CV_SeungheeLee.png">
+<embed src="https://econ-seunghee.github.io/CV_SeungheeLee.pdf" type="application/pdf" width="600px" height="500px" />
 
