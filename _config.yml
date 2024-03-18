@@ -85,9 +85,9 @@ analytics:
 author:
   name             : "Seunghee Lee"
   avatar           : "profile.jpg"
-  bio              : "Associate Fellow"
+  bio              : "Associate Fellow, KDI"
   location         : "Sejong-si, Korea"
-  employer         : 
+  employer         : "https://www.kdi.re.kr/introduce/org?empnum=3613"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=wMcQTmgAAAAJ&hl=ko"
   email            : "shlee@kdi.re.kr"
