@@ -85,12 +85,11 @@ analytics:
 author:
   name             : "Seunghee Lee"
   avatar           : "profile.jpg"
-  bio              : "Associate Fellow <br/>
-  KDI"
-  location         : "Sejong-si, Korea"
-  employer         : "https://www.kdi.re.kr/introduce/org?empnum=3613"
+  bio              : "Associate Fellow"
+  location         : 
+  employer         : [KDI](https://www.kdi.re.kr/introduce/org?empnum=3613)
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=wMcQTmgAAAAJ&hl=ko"
   email            : "shlee@kdi.re.kr"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :  #
