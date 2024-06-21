@@ -11,6 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
+
 Working Papers
 -----
 * <b> "A Trajectories-Based Approach to Measuring Intergenerational Mobility" </b> (with Yoosoon Chang, Steven N. Durlauf, and Joon Y. Park),
@@ -25,3 +26,9 @@ Publications (in Korean)
 -----
 * <b>"Adopting Economic and Financial Variables to Explain Stock Market Volatility in Korea"</b> (with Heejoon Han),
   The Korean Journal of Economic Studies, 2016.
+
+Policy Reports (in Korean)
+-----
+* <b>"Weather Condition Changes on Prices: Effects and Implication"</b>, KDI Feature Article, 2024.
+* <b>"A Study on Elderly Poverty: Focusing on Income and Consumption"</b>, KDI Policy Study, 2023.
+* <b>"Assessing Old-Age Poverty with Income and Assets: Generational Insights and Policy Directions"</b>, KDI FOCUS, 2023.
