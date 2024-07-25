@@ -19,8 +19,7 @@ Working Papers
 
 Work In Progress
 -----
-* <b> "An Empirical Investigation of Intergenerational Mobility in Korea" </b> (with [Yoosoon Chang](https://economics.indiana.edu/about/faculty/chang-yoosoon.html), [Steven N. Durlauf](https://harris.uchicago.edu/directory/steven-durlauf), and [Joon Y. Park](https://economics.indiana.edu/about/faculty/park-joon.html))
-
+* <b> "An Empirical Investigation of Intergenerational Mobility in Korea" 
 
 Publications (in Korean)
 -----
