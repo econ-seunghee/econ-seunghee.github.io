@@ -19,7 +19,13 @@ Working Papers
 
 Work In Progress
 -----
-* <b> "An Empirical Investigation of Intergenerational Mobility in Korea" 
+* <b> "An Empirical Investigation of Intergenerational Mobility in Korea" </b> (with [Yoosoon Chang](https://economics.indiana.edu/about/faculty/chang-yoosoon.html), [Steven N. Durlauf](https://harris.uchicago.edu/directory/steven-durlauf), and [Joon Y. Park](https://economics.indiana.edu/about/faculty/park-joon.html))
+
+* <b> "Effects ofWeather Conditions on Price in Korea" </b>
+
+* <b> "Assessing Old-Age Poverty in Korea: Past Lessons and Future Challenges" </b>
+
+* <b> "Functional Analysis of Government Spending " </b> (with [ShinHyuk Kang](https://shinkangecon.github.io/))
 
 Publications (in Korean)
 -----
@@ -28,6 +34,7 @@ Publications (in Korean)
 
 Policy Reports (in Korean)
 -----
+* <b>"A Study on Intergenerational Mobility: Focusing on Educational Mobility"</b>, KDI Policy Study, 2024.
 * <b>"Weather Condition Changes on Prices: Effects and Implication"</b>, KDI Feature Article, 2024.
 * <b>"A Study on Elderly Poverty: Focusing on Income and Consumption"</b>, KDI Policy Study, 2023.
 * <b>"Assessing Old-Age Poverty with Income and Assets: Generational Insights and Policy Directions"</b>, KDI FOCUS, 2023.
