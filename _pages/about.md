@@ -10,13 +10,13 @@ redirect_from:
    ㅤ
    
    
-<b> Associate Fellow, 
+<b> Associate Fellow, </b>
+ 
+<b> Department of Public Finance and Social Policies </b>
 
-Department of Public Finance and Social Policies
+<b> & Office of Macroeconomic Analysis and Forecasting, </b>
 
-& Office of Macroeconomic Analysis and Forecasting,
+<b> Korea Development Institute ([KDI](https://www.kdi.re.kr/)) </b>
 
-Korea Development Institute (KDI)
-
-Research Interests:  Intergenerational Mobility, Poverty, Inequality, Time Series Analysis, Applied Econometrics </b>
+<b> Research Interests:  Intergenerational Mobility, Poverty, Inequality, Time Series Analysis, Applied Econometrics </b>
 
