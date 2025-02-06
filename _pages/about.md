@@ -16,7 +16,7 @@ redirect_from:
 
 <b> & Office of Macroeconomic Analysis and Forecasting, </b>
 
-<b> Korea Development Institute ([KDI](https://www.kdi.re.kr/)) </b>
+<b> Korea Development Institute ([KDI](https://www.kdi.re.kr/introduce/org?empnum=3613)) </b>
 
 <b> Research Interests:  Intergenerational Mobility, Poverty, Inequality, Time Series Analysis, Applied Econometrics </b>
 
