@@ -11,6 +11,14 @@ author_profile: true
 
 {% include base_path %}
 
+
+Sungkyunkwan University
+---
+ 
+* Introduction to Econometrics
+  * Spring 2025
+
+
 Indiana University
 ---
 
@@ -20,11 +28,5 @@ Spring 2019, Spring 2020, Fall 2020,
 Spring 2021, Summer 2021, Fall 2021 
 
 
-
-Sungkyunkwan University
----
- 
-* Introduction to Econometrics
-  * Spring 2025
 
 
