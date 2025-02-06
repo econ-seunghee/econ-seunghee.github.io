@@ -15,14 +15,14 @@ author_profile: true
 Sungkyunkwan University
 ---
  
-* Introduction to Econometrics
+* <b> Introduction to Econometrics </b>
   * Spring 2025
 
 
 Indiana University
 ---
 
-* Statistical Analysis for Business and Economics [(Syllabus)](https://econ-seunghee.github.io/FA21_E370_Syllabus.pdf)
+* <b> Statistical Analysis for Business and Economics  </b> [(Syllabus)](https://econ-seunghee.github.io/FA21_E370_Syllabus.pdf)
   * Fall 2017, Spring 2018, Fall 2018,
 Spring 2019, Spring 2020, Fall 2020,
 Spring 2021, Summer 2021, Fall 2021 
