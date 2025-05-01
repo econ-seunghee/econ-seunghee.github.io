@@ -15,7 +15,7 @@ author_profile: true
 Sungkyunkwan University
 ---
  
-* <b> Introduction to Econometrics </b>
+* <b> Introduction to Econometrics </b> [(Syllabus)](https://econ-seunghee.github.io/ECO3005_01_SP25_Syllabus.pdf)
   * Spring 2025
 
 
