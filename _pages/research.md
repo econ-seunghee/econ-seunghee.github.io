@@ -26,8 +26,9 @@ Working Papers
 Work In Progress
 -----
 
-
 * <b> "Functional Analysis of Government Spending " </b> (with [ShinHyuk Kang](https://shinkangecon.github.io/))
+
+* <b> "Nowcasting Economic Activity with a Sparse Dynamic Factor Model"
 
 Publications (in Korean)
 -----
