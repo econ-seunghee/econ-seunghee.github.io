@@ -19,7 +19,7 @@ Working Papers
 
 * <b> "An Empirical Investigation of Intergenerational Mobility in Korea" </b> (with [Yoosoon Chang](https://economics.indiana.edu/about/faculty/chang-yoosoon.html), [Steven N. Durlauf](https://harris.uchicago.edu/directory/steven-durlauf), and [Joon Y. Park](https://economics.indiana.edu/about/faculty/park-joon.html))
 
-* <b> "Assessing Old-Age Poverty in Korea: Past Lessons and Future Challenges" </b>
+* <b> "Assessing Old-Age Poverty in Korea: A Multidimensional Approach" </b>
 
 * <b> "Effects of Weather Conditions on Price in Korea" </b>
 
