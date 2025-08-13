@@ -43,9 +43,9 @@ Publications (in Korean)
 
 Policy Reports (in Korean)
 -----
-* <b>"Demographic Drivers of the Propensity to Consume: Effects and Implications"</b> (with Meeroo Kim), KDI Feature Article, 2025.
-* <b>"Reforming the Basic Pension Eligibility Threshold"</b> (with Dohun Kim), KDI FOCUS, 2025.
-* <b>"Intergenerational Mobility in Korea: Insights from Educational Mobility"</b>, KDI Policy Study, 2024.
-* <b>"Weather Condition Changes on Prices: Effects and Implication"</b>, KDI Feature Article, 2024.
-* <b>"A Study on Elderly Poverty: Focusing on Income and Consumption"</b>, KDI Policy Study, 2023.
-* <b>"Assessing Old-Age Poverty with Income and Assets: Generational Insights and Policy Directions"</b>, KDI FOCUS, 2023.
+* <b>"Demographic Drivers of the Propensity to Consume: Effects and Implications"</b> (with Meeroo Kim), <i>KDI Feature Article,</i> 2025.
+* <b>"Reforming the Basic Pension Eligibility Threshold"</b> (with Dohun Kim), <i>KDI FOCUS,</i> 2025.
+* <b>"Intergenerational Mobility in Korea: Insights from Educational Mobility"</b>, <i>KDI Policy Study,</i> 2024.
+* <b>"Weather Condition Changes on Prices: Effects and Implication"</b>, <i>KDI Feature Article,</i> 2024.
+* <b>"A Study on Elderly Poverty: Focusing on Income and Consumption"</b>, <i>KDI Policy Study,</i> 2023.
+* <b>"Assessing Old-Age Poverty with Income and Assets: Generational Insights and Policy Directions"</b>, <i>KDI FOCUS,</i> 2023.
