@@ -34,12 +34,12 @@ Work In Progress
 
 Publications 
 -----
-* <b> "Effects of Weather Conditions on Price in Korea"</b>, <i> KDI Journal of Economic Policy </i>, Forthcoming.
+* <b> "Effects of Weather Conditions on Price in Korea"</b>, <i> KDI Journal of Economic Policy, </i> Forthcoming.
 
 Publications (in Korean)
 -----
 * <b>"Adopting Economic and Financial Variables to Explain Stock Market Volatility in Korea"</b> (with [Heejoon Han](https://sites.google.com/site/heejoonecon/)),
-  <i> Korean Journal of Economic Studies</i>, 2016.
+  <i> Korean Journal of Economic Studies,</i> 2016.
 
 Policy Reports (in Korean)
 -----
