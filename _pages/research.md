@@ -21,7 +21,7 @@ Working Papers
 
 * <b> "Assessing Old-Age Poverty in Korea: A Multidimensional Approach" </b>
 
-* <b> "Effects of Weather Conditions on Price in Korea" </b>
+
 
 Work In Progress
 -----
@@ -29,6 +29,12 @@ Work In Progress
 * <b> "Functional Analysis of Government Spending " </b> (with [ShinHyuk Kang](https://shinkangecon.github.io/))
 
 * <b> "Nowcasting Economic Activity with a Sparse Dynamic Factor Model"
+
+* <b> "Nowcasting Monthly Consumption Indicators Using Credit Card Transactions: Evidence from Korea"
+
+Publications 
+-----
+* <b> "Effects of Weather Conditions on Price in Korea"</b>, KDI Journal of Economic Policy, Forthcoming.
 
 Publications (in Korean)
 -----
