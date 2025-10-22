@@ -29,7 +29,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : # "dark" (default), "light"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -87,7 +87,7 @@ author:
   avatar           : "profile.jpg"
   bio              : "Associate Fellow, KDI"
   location         : "Sejong-si, Korea"
-  employer         : 
+  employer         : "Korea Development Institute(KDI)"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=wMcQTmgAAAAJ&hl=ko"
   email            : "shlee@kdi.re.kr"
@@ -105,7 +105,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : 
   orcid            :
   pinterest        :
   soundcloud       :
