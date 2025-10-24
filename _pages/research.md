@@ -14,10 +14,10 @@ author_profile: true
 
 Working Papers
 -----
-* <b> "A Trajectories-Based Approach to Measuring Intergenerational Mobility" </b> (with [Yoosoon Chang](https://economics.indiana.edu/about/faculty/chang-yoosoon.html), [Steven N. Durlauf](https://harris.uchicago.edu/directory/steven-durlauf), and [Joon Y. Park](https://economics.indiana.edu/about/faculty/park-joon.html)),
+* <b> "A Trajectories-Based Approach to Measuring Intergenerational Mobility" </b> (with [Yoosoon Chang](https://economics.indiana.edu/about/faculty/chang-yoosoon.html), [Steven N. Durlauf](https://stonecenter.uchicago.edu/people/steven-durlauf/), and [Joon Y. Park](https://economics.indiana.edu/about/faculty/park-joon.html)),
   NBER Working Paper [No. 31020](https://www.nber.org/papers/w31020)
 
-* <b> "An Empirical Investigation of Intergenerational Mobility in Korea" </b> (with [Yoosoon Chang](https://economics.indiana.edu/about/faculty/chang-yoosoon.html), [Steven N. Durlauf](https://harris.uchicago.edu/directory/steven-durlauf), and [Joon Y. Park](https://economics.indiana.edu/about/faculty/park-joon.html))
+* <b> "An Empirical Investigation of Intergenerational Mobility in Korea" </b> (with [Yoosoon Chang](https://economics.indiana.edu/about/faculty/chang-yoosoon.html), [Steven N. Durlauf](https://stonecenter.uchicago.edu/people/steven-durlauf/), and [Joon Y. Park](https://economics.indiana.edu/about/faculty/park-joon.html))
 
 * <b> "Assessing Old-Age Poverty in Korea: A Multidimensional Approach" </b>
 
