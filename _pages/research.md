@@ -28,6 +28,8 @@ Work In Progress
 
 * <b> "Functional Analysis of Government Spending " </b> (with [ShinHyuk Kang](https://shinkangecon.github.io/))
 
+* <b> "Intergenerational Educational Mobility in Korea: From Degrees to Ranks" </b>
+
 * <b> "Nowcasting Economic Activity with a Sparse Dynamic Factor Model"
 
 * <b> "Nowcasting Monthly Consumption Indicators Using Credit Card Transactions: Evidence from Korea"
