@@ -11,6 +11,12 @@ author_profile: true
 
 {% include base_path %}
 
+KDI School of Public Policy and Management
+---
+ 
+* <b> Fiscal Policy Analysis: Theroy and Practice (with Kang Koo Lee and Seungryong Shin) </b> 
+  * Fall 2025
+
 
 Sungkyunkwan University
 ---
