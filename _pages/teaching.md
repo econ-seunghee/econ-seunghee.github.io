@@ -21,7 +21,7 @@ KDI School of Public Policy and Management
 Sungkyunkwan University
 ---
  
-* <b> Undergraduate Econometrics (Introduction to Econometrics / Econometrics) </b> [(Syllabus)](https://econ-seunghee.github.io/GEC3204_FA25_Syllabus.pdf)
+* <b> Undergraduate Econometrics (Introduction to Econometrics / Econometrics) </b> [(Syllabus)](https://econ-seunghee.github.io/GEC3204_SP26_Syllabus.pdf)
   * Spring 2025, Fall 2025, Spring 2026
 
 
