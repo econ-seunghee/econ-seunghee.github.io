@@ -39,7 +39,7 @@ Work In Progress
 Publications 
 -----
 
-* <b> "Assessing Old-Age Poverty in Korea: A Multidimensional Investigation and Generational Disparities"</b>, <i> Review of Income and Wealth </i>(forthcoming).
+* <b> "Assessing Old-Age Poverty in Korea: A Multidimensional Investigation and Generational Disparities"</b>, Accepted at <i> Review of Income and Wealth</i>.
 
 * <b> "Effects of Weather Conditions on Price in Korea"</b>, <i> KDI Journal of Economic Policy, </i> 2025.
 
